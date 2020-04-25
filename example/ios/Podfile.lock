@@ -1,0 +1,22 @@
+PODS:
+  - assets_path_resolver (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - assets_path_resolver (from `.symlinks/plugins/assets_path_resolver/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  assets_path_resolver:
+    :path: ".symlinks/plugins/assets_path_resolver/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  assets_path_resolver: b553ebced4b50c4714d60f6d6aff611074defb26
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.9.0
